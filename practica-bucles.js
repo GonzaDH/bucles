@@ -27,6 +27,7 @@ let data =[
      "image": "img-samsung-galaxy-s10.jpg"
     }
 ]
+
 //Practica 
 //1- Dado el siguiente array utilizar un for para mostrar por consola el nombre del producto.
 
